@@ -36,7 +36,7 @@ MongoDB • MySQL
 NumPy • Pandas • Scikit-Learn • TensorFlow
 
 ### Tools
-Git • GitHub • Docker • Postman • VS Code
+Git • GitHub • Postman • VS Code
 
 ---
 
