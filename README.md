@@ -1,8 +1,7 @@
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![AI](https://img.shields.io/badge/AI-Enthusiast-green)
-![MERN](https://img.shields.io/badge/MERN-Stack-success)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # Hi there 👋, I'm Sathvik
 
