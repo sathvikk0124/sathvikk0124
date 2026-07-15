@@ -52,9 +52,9 @@ Prediction systems, recommendation systems and data analytics applications.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/sathvik-koduru-231a6b1b7/
+- LinkedIn: https://www.linkedin.com/in/sathvik-koduru
 - GitHub: https://github.com/sathvikk0124
-- Email: sathvikkoduru@gmail.com
+- Email: sathvikreddykoduru@gmail.com
 
 ---
 
