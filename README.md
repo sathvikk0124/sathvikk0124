@@ -45,9 +45,6 @@ Git • GitHub • Postman • VS Code
 ### 🤖 AI Career Study Agent
 Personalized AI mentor for career guidance, learning roadmaps and interview preparation.
 
-### 📊 Machine Learning Projects
-Prediction systems, recommendation systems and data analytics applications.
-
 ---
 
 ## 🌐 Connect With Me
